@@ -1,0 +1,1169 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+
+
+.product-page5 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2421px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.product-page5 .retinal-detachment-r {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 290px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .provider {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 476px;
+  height              : auto;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .total-cost {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 476px;
+  height              : auto;
+  width               : 143px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .out-of-pocket-cost {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 476px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .john-doe-md {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 597px;
+  height              : auto;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .john-doe-md-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 771px;
+  height              : auto;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .john-doe-md-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 943px;
+  height              : auto;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .john-doe-md-copy4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1109px;
+  height              : auto;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .john-doe-md-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1280px;
+  height              : auto;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 597px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy6 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 771px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy7 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 943px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy8 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1109px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1280px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 889px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy9 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 597px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy11 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 771px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy12 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 943px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy13 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1109px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .copy10 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1280px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1092px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .office-visit-for-eva {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 597px;
+  height              : auto;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .step3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 943px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .eye-procedure {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1102px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .follow-up-office-vis {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1277px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .step2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 773px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .there-are-five-steps {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 383px;
+  height              : auto;
+  width               : 1015px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.product-page5 .line-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 693px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .line-copy6 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1210px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .line-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 868px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .line-copy4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 524px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .line-copy10 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1034px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .rectangle-copy4 {
+  background-color    : rgba(11, 64, 200, 1.0);
+  top                 : 586px;
+  height              : 63px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.product-page5 .rectangle-copy5 {
+  background-color    : rgba(11, 64, 200, 1.0);
+  top                 : 758px;
+  height              : 63px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.product-page5 .rectangle-copy6 {
+  background-color    : rgba(11, 64, 200, 1.0);
+  top                 : 932px;
+  height              : 63px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.product-page5 .rectangle-copy7 {
+  background-color    : rgba(11, 64, 200, 1.0);
+  top                 : 1091px;
+  height              : 63px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.product-page5 .rectangle-copy8 {
+  background-color    : rgba(11, 64, 200, 1.0);
+  top                 : 1266px;
+  height              : 63px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+}
+.product-page5 .a1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 600px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .a2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 772px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .a3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 946px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .a4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .a5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1280px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .rectangle3-copy13 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 1640px;
+  height              : 82px;
+  width               : 711px;
+  position            : absolute;
+  margin              : 0;
+  left                : 386px;
+}
+.product-page5 .schedule-information {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1667px;
+  height              : auto;
+  width               : 661px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page5 .rectangle-copy41 {
+  background-color    : rgba(255, 206, 0, 1.0);
+  top                 : 187px;
+  height              : 82px;
+  width               : 659px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.product-page5 .proliance-surgeons {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.product-page5 .rectangle-copy3 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 1394px;
+  height              : 171px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .estimated-total-cost {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1432px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 33.0px;
+}
+.product-page5 .a3500 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1471px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.product-page5 .insurance-pays {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1432px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 33.0px;
+}
+.product-page5 .a2800 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1471px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.product-page5 .rectangle3-copy14 {
+  background-color    : rgba(141, 227, 247, 1.0);
+  top                 : 1416px;
+  height              : 125px;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+}
+.product-page5 .total-out-of-pocket {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1432px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1073px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 33.0px;
+}
+.product-page5 .a700 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1471px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.product-page5 .rectangle3-copy16 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 1740px;
+  height              : 82px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+}
+.product-page5 .return-to-results-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1765px;
+  height              : auto;
+  width               : 388px;
+  position            : absolute;
+  margin              : 0;
+  left                : 547px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page5 .a363-to1000-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2171px;
+  height              : auto;
+  width               : 509px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1390px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 100.0px;
+  color               : rgba(9, 62, 198, 1.0);
+  text-align          : center;
+  line-height         : 133.0px;
+}
+.product-page5 .rectangle-copy81 {
+  background-color    : rgba(255, 206, 0, 1.0);
+  top                 : 1884px;
+  height              : 455px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .start-new-search-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2009px;
+  height              : auto;
+  width               : 1070px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.product-page5 .rectangle3-copy161 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2091px;
+  height              : 82px;
+  width               : 509px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.product-page5 .rectangle3-copy17 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2091px;
+  height              : 82px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  border-style        : solid;
+  border-width        : 6px;
+  border-color        : rgba(9, 62, 198, 1.0);
+}
+.product-page5 .rectangle3-copy18 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 2195px;
+  height              : 82px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page5 .page1-copy17 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2011px;
+  height              : 402px;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1030px;
+}
+.product-page5 .page1-copy17 .fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 402px;
+  width               : 402px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .page1-copy17 .fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : 278px;
+  width               : 279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+}
+.product-page5 .page1-copy17 .fill5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 145px;
+  height              : 69px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 178px;
+}
+.product-page5 .search-by-condition-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2112px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page5 .upload-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2119px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 741px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page5 .search-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2221px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 202px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page5 .rectangle-copy42 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 2339px;
+  height              : 82px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .page1-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 48px;
+  height              : 52px;
+  width               : 222px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.product-page5 .page1-copy .fill11 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .page1-copy .group25 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 222px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .page1-copy .group25 .fill2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+}
+.product-page5 .page1-copy .group25 .fill4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+}
+.product-page5 .page1-copy .group25 .fill6 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+}
+.product-page5 .page1-copy .group25 .fill8 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : 21px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+}
+.product-page5 .page1-copy .group25 .fill10 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+}
+.product-page5 .page1-copy .group25 .fill12 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 23px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+}
+.product-page5 .page1-copy .group25 .fill14 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+}
+.product-page5 .page1-copy .group25 .fill16 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+}
+.product-page5 .page1-copy .group25 .group20 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 22px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+}
+.product-page5 .page1-copy .group25 .fill21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 25px;
+  height              : 22px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.product-page5 .page1-copy .group25 .clip24 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .page1-copy .group25 .fill23 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 36px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.product-page5 .group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 48px;
+  height              : 106px;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1161px;
+}
+.product-page5 .group .page1-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+}
+.product-page5 .group .page1-copy2 .fill13 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page5 .group .page1-copy2 .stroke2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page5 .group .page1-copy2 .stroke3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page5 .group .page1-copy2 .stroke4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page5 .group .page1-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+}
+.product-page5 .group .marie-santos-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(9, 62, 198, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.product-page5 .group .fill1-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

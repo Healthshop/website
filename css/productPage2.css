@@ -1,0 +1,697 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
+
+
+.product-page2 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1581px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.product-page2 .rectangle-copy3 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 216px;
+  height              : 322px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .results {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 590px;
+  height              : auto;
+  width               : 1070px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.product-page2 .a363-to1000-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 418px;
+  height              : auto;
+  width               : 509px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1390px;
+  font-family         : "Playfair Display", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 100.0px;
+  color               : rgba(9, 62, 198, 1.0);
+  text-align          : center;
+  line-height         : 133.0px;
+}
+.product-page2 .rectangle3-copy6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 298px;
+  height              : 82px;
+  width               : 509px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+}
+.product-page2 .rectangle3-copy7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 298px;
+  height              : 82px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  border-style        : solid;
+  border-width        : 6px;
+  border-color        : rgba(9, 62, 198, 1.0);
+}
+.product-page2 .rectangle3-copy9 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 761px;
+  height              : 82px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  border-style        : solid;
+  border-width        : 6px;
+  border-color        : rgba(9, 62, 198, 1.0);
+}
+.product-page2 .rectangle3-copy10 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 949px;
+  height              : 82px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  border-style        : solid;
+  border-width        : 6px;
+  border-color        : rgba(9, 62, 198, 1.0);
+}
+.product-page2 .rectangle3-copy11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1131px;
+  height              : 82px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  border-style        : solid;
+  border-width        : 6px;
+  border-color        : rgba(9, 62, 198, 1.0);
+}
+.product-page2 .rectangle3-copy8 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 402px;
+  height              : 82px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page2 .rectangle3-copy13 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 1309px;
+  height              : 82px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1043px;
+}
+.product-page2 .page1-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 378px;
+  height              : 191px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1210px;
+}
+.product-page2 .page1-copy2 .fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 191px;
+  width               : 191px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .page1-copy2 .fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 47px;
+  height              : 132px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+}
+.product-page2 .page1-copy2 .fill5 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 69px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+}
+.product-page2 .rectangle-copy2 {
+  background-color    : rgba(9, 62, 198, 1.0);
+  top                 : 1503px;
+  height              : 82px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .retinal-detachment-r {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 323px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .u-pload {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 329px;
+  height              : auto;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .select {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 791px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1097px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .select-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 979px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1095px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .select-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1161px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1097px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .search-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 434px;
+  height              : auto;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 184px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .c-ompare {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1341px;
+  height              : auto;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1042px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.product-page2 .proliance-surgeons-t {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 752px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .facility-name-type-o {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 940px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .facility-name-type-o1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1122px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .a123-main-street-city {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 752px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .a123-main-street-city-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 940px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .a123-main-street-city-copy2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1122px;
+  height              : auto;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.product-page2 .select-from-the-belo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 659px;
+  height              : auto;
+  width               : 1015px;
+  position            : absolute;
+  margin              : 0;
+  left                : 184px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.product-page2 .line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 905px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page2 .line-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1088px;
+  height              : 3px;
+  width               : 1084px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+}
+.product-page2 .page1-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 48px;
+  height              : 52px;
+  width               : 222px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.product-page2 .page1-copy .fill11 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .page1-copy .group25 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 222px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .page1-copy .group25 .fill2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+}
+.product-page2 .page1-copy .group25 .fill4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+}
+.product-page2 .page1-copy .group25 .fill6 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+}
+.product-page2 .page1-copy .group25 .fill8 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : 21px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+}
+.product-page2 .page1-copy .group25 .fill10 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+}
+.product-page2 .page1-copy .group25 .fill12 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 24px;
+  height              : 23px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+}
+.product-page2 .page1-copy .group25 .fill14 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 24px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+}
+.product-page2 .page1-copy .group25 .fill16 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+}
+.product-page2 .page1-copy .group25 .group20 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 22px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+}
+.product-page2 .page1-copy .group25 .fill21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 25px;
+  height              : 22px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.product-page2 .page1-copy .group25 .clip24 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .page1-copy .group25 .fill23 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 36px;
+  height              : 2px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.product-page2 .group {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 48px;
+  height              : 106px;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1161px;
+}
+.product-page2 .group .page1-copy21 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+}
+.product-page2 .group .page1-copy21 .fill13 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.product-page2 .group .page1-copy21 .stroke2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page2 .group .page1-copy21 .stroke3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page2 .group .page1-copy21 .stroke4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : 6px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.product-page2 .group .page1-copy3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+}
+.product-page2 .group .marie-santos-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(9, 62, 198, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.product-page2 .group .fill1-copy {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
