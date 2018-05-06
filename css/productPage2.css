@@ -5,7 +5,7 @@
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1581px;
+  min-height          : 2000px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -129,7 +129,7 @@ div {
 }
 .product-page2 .rectangle3-copy13 {
   background-color    : rgba(9, 62, 198, 1.0);
-  top                 : 1309px;
+  top                 : 650px;
   height              : 82px;
   width               : 248px;
   position            : absolute;
@@ -174,7 +174,7 @@ div {
 }
 .product-page2 .rectangle-copy2 {
   background-color    : rgba(9, 62, 198, 1.0);
-  top                 : 1503px;
+  top                 : 1920px;
   height              : 82px;
   width               : 1440px;
   position            : absolute;
@@ -267,7 +267,7 @@ div {
 }
 .product-page2 .c-ompare {
   background-color    : rgba(255, 255, 255, 0.0);
-  top                 : 1341px;
+  top                 : 675px;
   height              : auto;
   width               : 250px;
   position            : absolute;
@@ -367,7 +367,7 @@ div {
   background-color    : rgba(255, 255, 255, 0.0);
   top                 : 659px;
   height              : auto;
-  width               : 1015px;
+  width               : 650px;
   position            : absolute;
   margin              : 0;
   left                : 184px;

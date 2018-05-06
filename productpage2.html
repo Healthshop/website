@@ -7,6 +7,20 @@
         <link href="./css/productPage2.css" rel="stylesheet" type="text/css"/>
         <meta content="Launchpad by Anima" name="author">
         </meta>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="css/jumbotron.css" rel="stylesheet">
+    
+        <!--Font Awesome Free CDN-->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+
+        <!--Leaflet-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+        integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+        crossorigin=""/>
+
     </head>
     <body style="margin: 0;
  background: rgba(255, 255, 255, 1.0);">
@@ -19,23 +33,23 @@
                     Results.
                     <br/>
                 </div>
-                <div class="a363-to1000-copy">
+                <!--<div class="a363-to1000-copy">
                     $363
                     <br/>
                     - to -
                     <br/>
                     $1,000
-                </div>
+                </div>-->
                 <div class="rectangle3-copy6">
                 </div>
                 <div class="rectangle3-copy7">
                 </div>
-                <div class="rectangle3-copy9">
+                <!--<div class="rectangle3-copy9">
                 </div>
                 <div class="rectangle3-copy10">
                 </div>
                 <div class="rectangle3-copy11">
-                </div>
+                </div>-->
                 <div class="rectangle3-copy8">
                 </div>
                 <div onclick="location.href='productpage3.html';" class="rectangle3-copy13">
@@ -53,7 +67,7 @@
                 <div class="u-pload">
                     UPLOAD
                 </div>
-                <div class="select">
+                <!--<div class="select">
                     Select
                 </div>
                 <div class="select-copy">
@@ -62,13 +76,14 @@
                 <div class="select-copy2">
                     Select
                 </div>
+                -->
                 <div class="search-copy">
                     SEARCH
                 </div>
                 <div onclick="location.href='productpage3.html';" class="c-ompare">
                     COMPARE
                 </div>
-                <div class="proliance-surgeons-t">
+                <!--<div class="proliance-surgeons-t">
                     Proliance Surgeons
                     <br/>
                     Type of Facility
@@ -115,12 +130,90 @@
                     City, ST 55555
                     <br/>
                     1.2 miles
-                </div>
+                </div> -->
                 <div class="select-from-the-belo">
                     Select from the below list to compare providers.
                 </div>
-                <img anima-src="./img/product page 3line copy.png" class="line" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+
+                <div class = "compare">
+
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <div class="list-group" id="facility_list">
+                                        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                            <div class="d-flex w-100 justify-content-between">
+                                            <h5 class="mb-1">List group item heading</h5>
+                                            <small>3 days ago</small>
+                                            </div>
+                                            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                            <small>Donec id elit non mi porta.</small>
+                                        </a>
+                                        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                            <div class="d-flex w-100 justify-content-between">
+                                            <h5 class="mb-1">List group item heading</h5>
+                                            <small class="text-muted">3 days ago</small>
+                                            </div>
+                                            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                            <small class="text-muted">Donec id elit non mi porta.</small>
+                                        </a>
+                                        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                            <div class="d-flex w-100 justify-content-between">
+                                            <h5 class="mb-1">List group item heading</h5>
+                                            <small class="text-muted">3 days ago</small>
+                                            </div>
+                                            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                            <small class="text-muted">Donec id elit non mi porta.</small>
+                                        </a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div id="map"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--<div class="list-group" id="facility_list">
+                            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">List group item heading</h5>
+                                <small>3 days ago</small>
+                                </div>
+                                <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                <small>Donec id elit non mi porta.</small>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">List group item heading</h5>
+                                <small class="text-muted">3 days ago</small>
+                                </div>
+                                <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                <small class="text-muted">Donec id elit non mi porta.</small>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">List group item heading</h5>
+                                <small class="text-muted">3 days ago</small>
+                                </div>
+                                <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                                <small class="text-muted">Donec id elit non mi porta.</small>
+                            </a>
+                    </div>-->
+
+
+
+
+                </div>
+
+
+
+
+
+
+                <!--<img anima-src="./img/product page 3line copy.png" class="line" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
                 <img anima-src="./img/product page 3line copy.png" class="line-copy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                -->
                 <div class="page1-copy">
                     <img anima-src="./img/product page 4fill 1  13.png" class="fill11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
                     <div class="group25">
@@ -154,6 +247,21 @@
             </div>
         </div>
         <!-- Scripts -->
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+         <!-- Leaflet -->
+        <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+        integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+        crossorigin=""></script>
+
+        <script src="js/productPage2.js"></script> 
+
         <script>
             anima_isHidden = function(e) {
                 if (!(e instanceof HTMLElement)) return !1;

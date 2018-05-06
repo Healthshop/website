@@ -1,0 +1,35 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 0;
+}
+
+#div_file {
+  position: relative;
+  overflow: hidden;
+}
+#input_file {
+  position: absolute;
+  font-size: 50px;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
+
+
+.compare {
+  background-color: rgba(255, 255, 255, 0.0);
+  top: 752px;
+  height: auto;
+  width: 1015px;
+  position: absolute;
+  margin: 0;
+  left: 184px;
+  font-family: "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size: 20.0px;
+  color: rgba(0, 0, 0, 1.0);
+  text-align: left;
+  line-height: 41.0px;
+}
+
+
+#map { height: 500px;}
